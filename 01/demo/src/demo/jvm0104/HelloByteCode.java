@@ -6,7 +6,7 @@ package demo.jvm0104;
  * </p>
  *
  * @SINCE 2021/3/24 17:00
- * @AUTHOR CHENKAIFANG
+ * @AUTHOR CodeByck-write
  */
 public class HelloByteCode {
     public static void main(String[] args) {
