@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JvmGcLog">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/02/JvmGcLog/out/artifacts/JvmGcLog_jar/JvmGcLog.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
