@@ -1,0 +1,24 @@
+[0.006s][info][gc] Using G1
+[0.011s][info][gc,init] Version: 15+36-1562 (release)
+[0.011s][info][gc,init] CPUs: 12 total, 12 available
+[0.011s][info][gc,init] Memory: 24430M
+[0.011s][info][gc,init] Large Page Support: Disabled
+[0.011s][info][gc,init] NUMA Support: Disabled
+[0.011s][info][gc,init] Compressed Oops: Enabled (32-bit)
+[0.011s][info][gc,init] Heap Region Size: 1M
+[0.011s][info][gc,init] Heap Min Capacity: 1G
+[0.011s][info][gc,init] Heap Initial Capacity: 1G
+[0.011s][info][gc,init] Heap Max Capacity: 1G
+[0.011s][info][gc,init] Pre-touch: Disabled
+[0.011s][info][gc,init] Parallel Workers: 10
+[0.011s][info][gc,init] Concurrent Workers: 3
+[0.011s][info][gc,init] Concurrent Refinement Workers: 10
+[0.011s][info][gc,init] Periodic GC: Disabled
+[0.011s][info][gc,metaspace] CDS archive(s) mapped at: [0x0000000800000000-0x0000000800b50000-0x0000000800b50000), size 11862016, SharedBaseAddress: 0x0000000800000000, ArchiveRelocationMode: 0.
+[0.012s][info][gc,metaspace] Compressed class space mapped at: 0x0000000800b50000-0x0000000840b50000, size: 1073741824
+[0.012s][info][gc,metaspace] Narrow klass base: 0x0000000800000000, Narrow klass shift: 3, Narrow klass range: 0x100000000
+[0.053s][info][gc,heap,exit] Heap
+[0.053s][info][gc,heap,exit]  garbage-first heap   total 1048576K, used 1024K [0x00000000c0000000, 0x0000000100000000)
+[0.053s][info][gc,heap,exit]   region size 1024K, 2 young (2048K), 0 survivors (0K)
+[0.053s][info][gc,heap,exit]  Metaspace       used 467K, capacity 4480K, committed 4480K, reserved 1056768K
+[0.053s][info][gc,heap,exit]   class space    used 38K, capacity 384K, committed 384K, reserved 1048576K

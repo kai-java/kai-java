@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JvmGcLog:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JvmGcLog_jar</output-path>
+    <root id="archive" name="JvmGcLog.jar">
+      <element id="module-output" name="JvmGcLog" />
+    </root>
+  </artifact>
+</component>
